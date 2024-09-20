@@ -11,6 +11,7 @@ public class ArrayOne {
         // Traversing array
         for (int j : num) {
             System.out.println(j);
+
         }
     }
 }
